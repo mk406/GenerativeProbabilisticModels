@@ -1,1 +1,1 @@
-# generative_probabilistic_models
+# How to Trust Generative Probabilistic Models for Time-Series Data?
